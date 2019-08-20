@@ -1,0 +1,31 @@
+.main {
+  text-align: center;
+  /* float: right; */
+}
+
+.body {
+    margin: auto;
+}
+
+.column {
+  float: left;
+  width: 300px;
+  padding: 10px;
+  margin-right: 100px;
+}
+
+.column p {
+  color: red;
+}
+
+.column h3 {
+  font-size: 32px;
+}
+
+.link {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+}
